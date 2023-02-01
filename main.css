@@ -351,7 +351,7 @@
   background: rgba(0, 0, 0, 0);
 }
 .bg-1QIAus {
-  background: var(--background-image) var(--background-position) /
+  background: var(--background-position) /
     var(--background-size) var(--background-repeat) var(--background-attachment);
   filter: grayscale(var(--background-grayscale)) sepia(var(--background-sepia))
     invert(var(--background-invert)) brightness(var(--background-brightness))
@@ -377,7 +377,7 @@
   right: 0;
   bottom: 0;
   left: 0;
-  background: var(--backdrop-image) var(--backdrop-position) /
+  background: var(--backdrop-position) /
     var(--backdrop-size) var(--backdrop-repeat) var(--backdrop-attachment);
   filter: grayscale(var(--backdrop-grayscale)) sepia(var(--backdrop-sepia))
     invert(var(--backdrop-invert)) brightness(var(--backdrop-brightness))
@@ -1707,7 +1707,7 @@ textarea,
   left: 0;
   position: absolute;
   z-index: -1;
-  background: var(--background-image) var(--background-position) /
+  background: var(--background-position) /
     var(--background-size) var(--background-repeat) var(--background-attachment);
   filter: grayscale(var(--background-grayscale)) sepia(var(--background-sepia))
     invert(var(--background-invert)) brightness(var(--background-brightness))
@@ -8071,7 +8071,7 @@ code {
   left: 0;
   position: absolute;
   z-index: -1;
-  background: var(--background-image) var(--background-position) /
+  background: var(--background-position) /
     var(--background-size) var(--background-repeat) var(--background-attachment);
   filter: grayscale(var(--background-grayscale)) sepia(var(--background-sepia))
     invert(var(--background-invert)) brightness(var(--background-brightness))
